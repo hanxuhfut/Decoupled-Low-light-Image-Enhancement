@@ -1,6 +1,6 @@
 # Decoupled Low-light Image Enhancement
 
-Shijie Hao<sup>1,2</sup>, Xu Han<sup>1,2</sup>, Yanrong Guo<sup>1,2</sup> & Meng Wang<sup>1,2*</sup>
+Shijie Hao<sup>1,2*</sup>, Xu Han<sup>1,2</sup>, Yanrong Guo<sup>1,2</sup> & Meng Wang<sup>1,2</sup>
 
 <sup>1</sup>Key Laboratory of Knowledge Engineering with Big Data (Hefei University of Technology), Ministry of Education, Hefei 230009, China
 
