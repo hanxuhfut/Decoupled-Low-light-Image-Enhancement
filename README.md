@@ -17,10 +17,15 @@ The visual quality of photographs taken under imperfect lightness conditions can
 
 ## 2 Demo
 - **Image 1**
+![image1](/Demo/fig1.png)
 - **Image 2**
+![image2](/Demo/fig2.png)
 - **Image 3**
+![image3](/Demo/fig3.png)
 - **Image 4**
+![image4](/Demo/fig4.png)
 - **Image 5**
+![image5](/Demo/fig5.png)
 
 Please consider to cite this paper if you find this code helpful for your research：
 
