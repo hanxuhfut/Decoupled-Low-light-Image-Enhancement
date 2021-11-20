@@ -1,4 +1,4 @@
-# Decoupled Low-light Image Enhancement()
+# Decoupled Low-light Image Enhancement
 
 Shijie Hao<sup>1,2</sup>, Xu Han<sup>1,2</sup>, Yanrong Guo<sup>1,2</sup> & Meng Wang<sup>1,2*</sup>
 
@@ -21,11 +21,7 @@ The visual quality of photographs taken under imperfect lightness conditions can
 - **Image 3**
 - **Image 4**
 - **Image 5**
-- **Image 6**
-- **Image 7**
-- **Image 8**
-- **Image 9**
-- **Image 10**
+
 Please consider to cite this paper if you find this code helpful for your research：
 
 ```
