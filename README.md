@@ -28,7 +28,7 @@ The visual quality of photographs taken under imperfect lightness conditions can
 ![image5](/Demo/fig5.png)
 
 ## 3 Test
-**Requirements:** tf1.8 & py3.6 & numpy & PIL.
+**Requirements:** tf1.8, py3.6, numpy, PIL.
 
 Please download the pre-trained models and test code from [Google Drive](https://drive.google.com/file/d/1vR0UUIrytNv0WvdJXJQroZ8qvOETBZEZ/view?usp=sharing), and then run **python evaluate.py**.
 
