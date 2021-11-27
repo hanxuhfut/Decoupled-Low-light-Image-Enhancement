@@ -7,8 +7,8 @@ Shijie Hao<sup>1,2*</sup>, Xu Han<sup>1,2</sup>, Yanrong Guo<sup>1,2</sup> & Men
 <sup>2</sup>School of Computer Science and Information Engineering, Hefei University of Technology, Hefei 230009, China
 
 ---
+
 TensorFlow implementation of the algorithm in the paper "**Decoupled Low-light Image Enhancement**".
-tf1.8 & py3.6
 
 **This paper has been accepted in the ACM Transactions on Multimedia Computing, Communications, and Applications**
 
@@ -26,6 +26,11 @@ The visual quality of photographs taken under imperfect lightness conditions can
 ![image4](/Demo/fig4.png)
 - **Image 5**
 ![image5](/Demo/fig5.png)
+
+## 3 Test
+**Requirements:** tf1.8 & py3.6 & numpy & PIL.
+
+Please download the pre-trained models and test code from [Google Drive](https://drive.google.com/file/d/1vR0UUIrytNv0WvdJXJQroZ8qvOETBZEZ/view?usp=sharing), and then run **python evaluate.py**.
 
 Please consider to cite this paper if you find this code helpful for your research：
 
