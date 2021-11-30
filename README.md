@@ -35,5 +35,12 @@ Please download the pre-trained models and test code from [Google Drive](https:/
 Please consider to cite this paper if you find this code helpful for your research：
 
 ```
-
+@misc{hao2021decoupled,
+      title={Decoupled Low-light Image Enhancement}, 
+      author={Shijie Hao and Xu Han and Yanrong Guo and Meng Wang},
+      year={2021},
+      eprint={2111.14458},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
