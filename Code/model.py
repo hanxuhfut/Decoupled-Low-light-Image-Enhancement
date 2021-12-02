@@ -39,7 +39,6 @@ def Net1(input_i):
         conv8=slim.conv2d(up8,  64,[3,3], rate=1, activation_fn=lrelu,scope='g_conv8_1')
         up9 =  upsample_and_concat( conv8, conv1, 32, 64 , 'g_up_2')
         conv9=slim.conv2d(up9,  32,[3,3], rate=1, activation_fn=lrelu,scope='g_conv9_1')
-        # Here, we use 1*1 kernel to replace the 3*3 ones in the paper to get better results.
         conv10=slim.conv2d(conv9,3,[3,3], rate=1, activation_fn=None, scope='g_conv10')
         R_out = tf.sigmoid(conv10)
     return R_out
